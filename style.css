@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Gotu&display=swap');
+
+* {
+  font-family: 'Gotu', sans-serif;
+}
+
 .masthead {
   height: 100vh;
   min-height: 500px;
@@ -6,3 +12,5 @@
   background-position: center;
   background-repeat: no-repeat;
 }
+
+
